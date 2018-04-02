@@ -1,4 +1,4 @@
-package com.example.designpattern.Iterator.clazz;
+package com.example.designpattern.A_Iterator.clazz;
 
 public class Book {
     private String name;

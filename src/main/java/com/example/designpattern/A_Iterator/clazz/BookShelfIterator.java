@@ -1,6 +1,6 @@
-package com.example.designpattern.Iterator.clazz;
+package com.example.designpattern.A_Iterator.clazz;
 
-import com.example.designpattern.Iterator.interfaces.Iterator;
+import com.example.designpattern.A_Iterator.interfaces.Iterator;
 
 public class BookShelfIterator implements Iterator{
 

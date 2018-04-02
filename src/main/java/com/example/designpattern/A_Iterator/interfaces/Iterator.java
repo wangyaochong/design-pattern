@@ -1,4 +1,4 @@
-package com.example.designpattern.Iterator.interfaces;
+package com.example.designpattern.A_Iterator.interfaces;
 
 public interface Iterator {
     abstract boolean hasNext();
