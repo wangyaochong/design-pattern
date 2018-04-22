@@ -1,6 +1,6 @@
 package com.example.designpattern.A_Iterator.exercise;
 
-import com.example.designpattern.A_Iterator.interfaces.Iterator;
+import com.example.designpattern.A_Iterator.example1.interfaces.Iterator;
 
 public class BookShelfAutoExtendIterator implements Iterator {
     BookShelfAutoExtend bookShelfAutoExtend;

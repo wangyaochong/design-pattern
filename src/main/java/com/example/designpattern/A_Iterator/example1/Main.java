@@ -1,9 +1,9 @@
-package com.example.designpattern.A_Iterator;
+package com.example.designpattern.A_Iterator.example1;
 
-import com.example.designpattern.A_Iterator.clazz.Book;
-import com.example.designpattern.A_Iterator.clazz.BookShelf;
+import com.example.designpattern.A_Iterator.example1.clazz.Book;
+import com.example.designpattern.A_Iterator.example1.clazz.BookShelf;
 import com.example.designpattern.A_Iterator.exercise.BookShelfAutoExtend;
-import com.example.designpattern.A_Iterator.interfaces.Iterator;
+import com.example.designpattern.A_Iterator.example1.interfaces.Iterator;
 
 public class Main {
     public static void main(String[] args) {

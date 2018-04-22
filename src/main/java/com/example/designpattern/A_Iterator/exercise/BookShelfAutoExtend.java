@@ -1,9 +1,8 @@
 package com.example.designpattern.A_Iterator.exercise;
 
-import com.example.designpattern.A_Iterator.clazz.Book;
-import com.example.designpattern.A_Iterator.clazz.BookShelfIterator;
-import com.example.designpattern.A_Iterator.interfaces.Aggregate;
-import com.example.designpattern.A_Iterator.interfaces.Iterator;
+import com.example.designpattern.A_Iterator.example1.clazz.Book;
+import com.example.designpattern.A_Iterator.example1.interfaces.Aggregate;
+import com.example.designpattern.A_Iterator.example1.interfaces.Iterator;
 
 import java.util.ArrayList;
 import java.util.List;

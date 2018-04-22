@@ -1,7 +1,7 @@
-package com.example.designpattern.A_Iterator.clazz;
+package com.example.designpattern.A_Iterator.example1.clazz;
 
-import com.example.designpattern.A_Iterator.interfaces.Aggregate;
-import com.example.designpattern.A_Iterator.interfaces.Iterator;
+import com.example.designpattern.A_Iterator.example1.interfaces.Aggregate;
+import com.example.designpattern.A_Iterator.example1.interfaces.Iterator;
 
 public class BookShelf implements Aggregate{
     private Book[] books;
